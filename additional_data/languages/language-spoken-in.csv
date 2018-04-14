@@ -1,0 +1,138 @@
+language,code,country,status
+es,AD,Andorra,majority
+es,FR,France,minority
+es,DE,Germany,minority
+es,GI,Gibraltar,majority
+es,IT,Italy,minority
+es,GB,United Kingdom,minority
+es,MA,Morocco,minority
+es,EH,Western Sahara,official
+es,GA,Gabon,official
+es,JP,Japan,minority
+es,NZ,New Zealand,minority
+es,PH,Philippines,minority
+es,CR,Costa Rica,official
+es,CU,Cuba,official
+es,DO,Dominican Republic,official
+es,SV,El Salvador,official
+es,GT,GTM,official
+es,HN,Honduras,official
+es,MX,Mexico,official
+es,NI,Nicaragua,official
+es,PA,Panama,official
+es,US,United States,minority
+es,BO,Bolivia,official
+es,BR,Brazil,minority
+es,CL,Chile,official
+es,CO,Colombia,official
+es,EC,Ecuador,official
+es,PY,Paraguay,official
+es,PE,Peru,official
+es,UY,Uruguay,official
+es,VE,Venezuela,official
+en,CM,Cameroon,official
+en,EG,Egypt,minority
+en,GM,Gambia,official
+en,GH,Ghana,official
+en,KE,Kenya,official
+en,LS,Lesotho,official
+en,LR,Liberia,official
+en,MW,Malawi,official
+en,MU,Mauritius,official
+en,nan,Namibia,official
+en,NG,Nigeria,official
+en,RW,Rwanda,official
+en,SC,Seychelles,official
+en,SL,Sierra Leone,official
+en,ZA,South Africa,official
+en,SS,South Sudan,official
+en,SZ,Swaziland,official
+en,UG,Uganda,official
+en,ZM,Zambia,official
+en,ZW,Zimbabwe,official
+en,IN,India,official
+en,LB,Lebanon,minority
+en,PK,Pakistan,official
+en,PH,Philippines,official
+en,SG,Singapore,official
+en,BD,Bangladesh,official
+en,MY,Malaysia,official
+en,MT,Malta,official
+en,BS,Bahamas,official
+en,BZ,Belize,official
+en,CA,Canada,official
+en,DM,Dominica,official
+en,GD,Grenada,official
+en,JM,Jamaica,official
+en,LC,Saint Lucia,official
+en,US,United States,official
+en,FJ,Fiji,official
+en,KI,Kiribati,official
+en,MH,Marshall Islands,official
+en,NR,Nauru,official
+en,NZ,New Zealand,official
+en,PW,Palau,official
+en,PG,Papua New Guinea,official
+en,SB,Solomon Islands,official
+en,VU,Vanuatu,official
+en,AS,American Samoa,official
+en,IO,British Indian Ocean Territory,official
+en,AI,Anguilla,official
+en,VG,Virgin Islands (British),official
+en,CX,Christmas Island,official
+en,CK,Cook Islands,official
+en,FK,Falkland Islands (Malvinas),official
+en,GI,Gibraltar,official
+en,GU,Guam,official
+en,GG,Guernsey,official
+en,HK,Hong Kong,official
+en,IM,Isle of Man,official
+en,JE,Jersey,official
+en,MS,Montserrat,official
+en,NF,Norfolk Island,official
+en,MP,Northern Mariana Islands,official
+en,PN,Pitcairn,official
+en,PR,Puerto Rico,official
+en,SH,"Saint Helena, Ascension and Tristan da Cunha",official
+en,GS,South Georgia and the South Sandwich Islands,official
+en,TC,Turks and Caicos Islands,official
+fr,BE,Belgium,official
+fr,FR,France,official
+fr,IT,Italy,official
+fr,LU,Luxembourg,official
+fr,MC,Monaco,official
+fr,BJ,Benin,official
+fr,BF,Burkina Faso,official
+fr,BI,Burundi,official
+fr,CM,Cameroon,official
+fr,CF,Central African Republic,official
+fr,KM,Comoros,official
+fr,CG,Congo,official
+fr,CI,Côte d'Ivoire,official
+fr,DJ,Djibouti,official
+fr,GQ,Equatorial Guinea,official
+fr,GA,Gabon,official
+fr,ML,Mali,official
+fr,MR,Mauritania,official
+fr,MU,Mauritius,official
+fr,MA,Morocco,official
+fr,NE,Niger,official
+fr,RE,Réunion,official
+fr,RW,Rwanda,official
+fr,SN,Senegal,official
+fr,SC,Seychelles,official
+fr,TG,Togo,official
+fr,TN,Tunisia,official
+fr,LB,Lebanon,majority
+fr,IN,India,official
+fr,GP,Guadeloupe,official
+fr,HT,Haiti,official
+fr,MX,Mexico,minority
+fr,MQ,Martinique,official
+fr,PM,Saint Pierre and Miquelon,official
+fr,US,United States,minority
+fr,NC,New Caledonia,official
+fr,VU,Vanuatu,official
+fr,WF,Wallis and Futuna,official
+fr,BR,Brazil,minority
+fr,GF,French Guiana,official
